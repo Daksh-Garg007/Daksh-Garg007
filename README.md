@@ -13,8 +13,8 @@
 
 <br/>
 
-<a href="www.linkedin.com/in/daksh-garg-02621837b"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dakshgarg2002@example.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/daksh-garg-02621837b"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dakshgarg2002@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Daksh-Garg007"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
@@ -76,7 +76,6 @@ Open_To:
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel)
 
 ---
-
 
 ## 📊 GitHub Analytics
 
@@ -153,7 +152,7 @@ Current_Focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshgarg2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daksh-garg-02621837b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-garg-02621837b)
 [![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daksh-Garg007)
 
 </div>
