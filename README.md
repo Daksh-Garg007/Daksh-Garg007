@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hi%20There,%20I'm%20Daksh%20Garg&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20|%20AI%20Integrations%20|%20DSA%20in%20Java&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hi%20There,%20I'm%20Daksh%20Garg&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20DSA%20in%20Java&descAlignY=55&descSize=18"/>
 
 <a href="https://github.com/Daksh-Garg007">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Learning+AI%2FML+Integrations;Mastering+DSA+in+Java;B.Tech+%40+DTU'29" alt="Typing SVG" />
@@ -81,12 +81,12 @@ Open_To:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Daksh-Garg007&show_icons=true&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117&border_color=4C1D95&hide_border=false" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-Garg007&theme=tokyonight&hide_border=false&background=0D1117&stroke=4C1D95&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Daksh-Garg007&show_icons=true&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117&border_color=4C1D95&hide_border=false&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-streak-stats.vercel.app/?user=Daksh-Garg007&theme=tokyonight&hide_border=false&background=0D1117&stroke=4C1D95&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Garg007&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117&border_color=4C1D95&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Garg007&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117&border_color=4C1D95&hide_border=false&cache_seconds=1800" width="49%"/>
 
 </div>
 
@@ -116,7 +116,7 @@ Open_To:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Daksh-Garg007/Daksh-Garg007/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Daksh-Garg007/Daksh-Garg007/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
