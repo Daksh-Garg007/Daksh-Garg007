@@ -81,12 +81,8 @@ Open_To:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Daksh-Garg007&show_icons=true&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117&border_color=4C1D95&hide_border=false&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-streak-stats.vercel.app/?user=Daksh-Garg007&theme=tokyonight&hide_border=false&background=0D1117&stroke=4C1D95&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Garg007&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117&border_color=4C1D95&hide_border=false&cache_seconds=1800" width="49%"/>
+<img src="./assets/github-stats.svg" width="49%"/>
+<img src="./assets/contributions.svg" width="49%"/>
 
 </div>
 
