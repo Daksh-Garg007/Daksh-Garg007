@@ -51,45 +51,7 @@ I enjoy turning ideas into working products while strengthening my fundamentals 
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="./assets/github-stats.svg" width="760" alt="GitHub statistics"/>
-
-<br/>
-
-<img src="./assets/top-languages.svg" width="760" alt="Top programming languages"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="./assets/trophies.svg" width="760" alt="GitHub trophies"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="./assets/contributions.svg" width="760" alt="GitHub contribution activity"/>
-
-<br/>
-
-<img src="./assets/activity-trend.svg" width="760" alt="30 day GitHub activity trend"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
